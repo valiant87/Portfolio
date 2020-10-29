@@ -1,52 +1,36 @@
 # Updated Portfolio
 
-# Responsive Portfolio with Bootstrap
-
-## About the project
-
-<p>This is my first professional responsive portfolio as a beginner full-stack developer. It is a great learning experience appling Bootstrap and it's components.</p>
-
 ---
 
-### About Me
+## About
 
-![Portfolio](./assets/images/aboutme.png)
+An updated portfolio about me, with a new design pinned projects and updated social media accounts.
+https://valiant87.github.io/Portfolio/
 
-- _Responsive navbar_
-
-### Contact
-
-![Portfolio](./assets/images/contact.png)
-
-- _Responsive form_
-
-### Portfolio
-
-![Portfolio](./assets/images/portfolio.png)
-
-- _Responsive images_
-
----
+![aboutme](/assets/images/aboutme.png)
 
 ### Tools used
 
 - Navbar component
-  _ Responsive navigation header
-  _ Collapsable navbar \* Hidden navbar at lower screen sizes
-  `Responsive navbars consist of elements .navbar-expand{-sm|-md|-lg|-xl} for more info visit https://getbootstrap.com/`
-  <br>
+
+  - Responsive navigation header
+  - Collapsable navbar Hidden navbar at lower screen sizes
+    `Responsive navbars consist of elements .navbar-expand{-sm|-md|-lg|-xl} for more info visit https://getbootstrap.com/`
+    <br>
 
 - Layout
-  _ Containers
-  _ Breakpoins
-  `.containers set width to the content display they are basic elements used in this project.`
-  <br>
+
+  - Containers
+  - Breakpoins
+    `.containers set width to the content display they are basic elements used in this project.`
+    <br>
 
 - Grid system
-  _ Rows
-  _ Columns
-  `Rows keep content aligned horizontaly,where columns are vertical`
-  <br>
+
+  - Rows
+  - Columns
+    `Rows keep content aligned horizontaly,where columns are vertical`
+    <br>
 
 - Utilities
   - Spacing
@@ -59,14 +43,13 @@
 > - [W3Schools](https://www.w3schools.com/)
 > - [MDB](https://mdbootstrap.com/)
 > - [Giphy](https://giphy.com/)
+> - [Google Fonts](https://fonts.google.com/)
 
 ##### Contributors
 
 - valnimirenco@gmail.com
 - [Val Nimirenco](https://github.com/valiant87)
-- [Current Repository](https://github.com/valiant87/bootstrap-responsive-portfolio-2)
-- [Website](https://valiant87.github.io/bootstrap-responsive-portfolio-2/)
 
----
-
-#### Licences: **_none_**
+<a href="https://img.shields.io/badge/CSS-19.0%25-purple"><img alt="CSS usage" src="https://img.shields.io/badge/CSS-19.0%25-purple"></a>
+<a href="https://img.shields.io/badge/HTML-81.0.%25-blue"><img alt="HTML usage" src="https://img.shields.io/badge/HTML-81.0%25-blue"></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -111,10 +111,11 @@ small {
 
 .navbar-toggler {
     background-color: rgb(255, 217, 0);
+    padding: 3px;
 }
 
 .navbar-toggler-icon {
-    background-color: rgb(255, 217, 0);
+    background-color: rgb(10, 10, 175);
     padding: 20px;
 }
 
@@ -129,6 +130,5 @@ small {
 .mediaIcons:hover {
     border-color: rgb(255, 217, 0);
     border-style: solid;
-    background-color: rgb(10, 10, 1750);
     padding: 2px;
 }
