@@ -7,7 +7,7 @@
 An updated portfolio about me, with a new design pinned projects and updated social media accounts.
 https://valiant87.github.io/Portfolio/
 
-![aboutme](/assets/images/aboutme.png)
+![aboutme](/assets/images/project.png)
 
 ### Tools used
 
